@@ -1,8 +1,5 @@
 api = 2
 core = 7.x
 
-projects[drupal][type] = core
-projects[drupal][version] = 7.19
-
-includes[buildthat] = https://raw.github.com/lsolesen/buildthat/7.x-1.x/buildthat.make
-includes[buildthat] = https://raw.github.com/soc-odder/soc_odder-deploy/7.x-1.x/soc_odder.make
+includes[buildthat] = https://raw.github.com/lsolesen/buildthat/7.x-1.x/buildthat.build
+includes[odder2014] = https://raw.github.com/soc-odder/soc_odder-deploy/7.x-1.x/soc_odder.make
