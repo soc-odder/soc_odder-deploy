@@ -15,9 +15,3 @@ Installation
     
 Create the settings.php in sites/default and chmod 755
 Create "files" directory in sites/default and chmod 755
-
-Navigate to the root directory in a webbrowser and run the "minimal" install profile.
-
-Enable the "soc_odder" module.
-
-    drush en soc_odder
